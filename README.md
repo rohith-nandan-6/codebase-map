@@ -2,6 +2,10 @@
 
 A high-performance, zero-dependency static analysis CLI tool written in Python 3.8+ (standard library only) that scans any .NET/C# repository. It extracts solution-wide project reference matrices, third-party package profiles, and runtime data flow chains, outputting them as self-contained interactive D3.js v7 HTML visualizations and an LLM-optimized markdown knowledge base.
 
+## Preview
+![Dependency Map](assets/dependency-map.png)
+![Dependency Map](assets/dependency-map.png)
+
 ## What It Is & Key Features
 
 - Zero Setup, Zero External Libraries: Works out of the box on any machine with Python 3.8+ installed. No pip install, no virtual environments, and no local .NET SDK installation required.
